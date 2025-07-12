@@ -5,7 +5,7 @@ This project consists of EDA, data filter (with sql commands) and model training
 
 ## Included Files
 
-- 'backpack_pred_chall.ipynb': notebook containing the preprocessing and model.
+- 'calories_burnt_pred.ipynb': notebook containing the preprocessing and model.
 
 ## Requirements
 
